@@ -1,4 +1,4 @@
-package com.lambdaschool.android.organization
+package com.lambdaschool.android.organization.application
 
 import android.app.Application
 
